@@ -90,7 +90,7 @@ Each metric was visualized in a subplot grid — showing all four causes side by
 
 ![Yearly flights trend:](6_Flight_delay_and_cancelled_project/images/Yealy_Trends.png)
 
-View my notebook for detailed steps here: 
+### View my notebook for detailed steps here: 
 [2_insights.ipynb](6_Flight_delay_and_cancelled_project/2_insights.ipynb)
 
 # 5️⃣ 📈 Insights
