@@ -69,7 +69,7 @@ For each delay cause (Carrier, Weather, NAS, Security):
 
 ### Counted how many times delays occurred (> 0).
 
-![Delay_count_per_cause](6_Flight_delay_and_cancelled_project\images\Delay_Causes.png)
+![Delay_count_per_cause](6_Flight_delay_and_cancelled_project/images/Delay_Causes.png)
 
 ### Calculated the mean delay time (average delay minutes).
 
