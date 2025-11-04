@@ -53,7 +53,7 @@ Counted flights per airline, cancellations, delays, and diversions.
 
 Displayed them together using subplots for a clear airline performance comparison.
 
-![Airline performance :](6_Flight_delay_and_cancelled_project\images\Airline_performance.png)
+![Airline performance :](6_Flight_delay_and_cancelled_project/images/Airline_performance.png)
 
 ## ⏰ Delay Distribution & Frequency
 
@@ -73,12 +73,12 @@ For each delay cause (Carrier, Weather, NAS, Security):
 
 ### Calculated the mean delay time (average delay minutes).
 
-![Delay_mean_per_cause](6_Flight_delay_and_cancelled_project\images\Delay_mean.png)
+![Delay_mean_per_cause](6_Flight_delay_and_cancelled_project/images/Delay_mean.png)
 
 ### Summed the total delay duration (overall impact).
 Each metric was visualized in a subplot grid — showing all four causes side by side for comparison.
 
-![Delay_sum_per_cause](6_Flight_delay_and_cancelled_project\images\Delay_sum.png)
+![Delay_sum_per_cause](6_Flight_delay_and_cancelled_project/images/Delay_sum.png)
 
 ## 📆 Yearly Trends
 
@@ -86,10 +86,10 @@ Analyzed total flights, cancelled flights, delayed flights, and diverted flights
 
 Combined these metrics into one visual to show trends and disruptions across time.
 
-![Yearly flights trend:](6_Flight_delay_and_cancelled_project\images\Yealy_Trends.png)
+![Yearly flights trend:](6_Flight_delay_and_cancelled_project/images/Yealy_Trends.png)
 
 View my notebook for detailed steps here: 
-[2_insights.ipynb](6_Flight_delay_and_cancelled_project\2_insights.ipynb)
+[2_insights.ipynb](6_Flight_delay_and_cancelled_project/2_insights.ipynb)
 
 # 5️⃣ 📈 Insights
 
