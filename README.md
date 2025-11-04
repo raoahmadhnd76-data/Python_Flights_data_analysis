@@ -86,7 +86,7 @@ Analyzed total flights, cancelled flights, delayed flights, and diverted flights
 
 Combined these metrics into one visual to show trends and disruptions across time.
 
-![Yearly flights trend:](6_Flight_delay_and_cancelled_project/images/Yealy_Trends.png)
+![Yearly flights trend:](6_Flight_delay_and_cancelled_project/images/Yearly_Trends.png)
 
 View my notebook for detailed steps here: 
 [2_insights.ipynb](6_Flight_delay_and_cancelled_project/2_insights.ipynb)
