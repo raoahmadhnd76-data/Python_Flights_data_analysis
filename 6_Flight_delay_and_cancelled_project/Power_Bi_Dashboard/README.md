@@ -8,6 +8,7 @@ The goal is to identify **patterns, causes, and performance trends** to assist a
 
 ## 📸 Dashboard Preview
 ![Dashboard_Preview](6_Flight_delay_and_cancelled_project/images/Flight_data_dashboard.gif)
+
 ---
 
 ## 🧠 Key Insights
