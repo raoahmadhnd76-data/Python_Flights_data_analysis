@@ -32,7 +32,7 @@ The goal is to identify **patterns, causes, and performance trends** to assist a
 
 - **Data Cleaning:** Performed in Python and Power Query
 
-To see complete code, check out: ['Dashboard_data_filteration'](6_Flight_delay_and_cancelled_project/3_Dashboard_data_filteration.ipynb)
+To see complete code, check out: ['Dashboard_data_filteration'](6_Flight_delay_and_cancelled_project/3_Dashboard_Data_preporation.ipynb)
 
 ---
 
