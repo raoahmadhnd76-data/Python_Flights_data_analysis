@@ -7,7 +7,7 @@ The goal is to identify **patterns, causes, and performance trends** to assist a
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard_Preview](6_Flight_delay_and_cancelled_project/images/Flight_data_dashboard.gif)
+![Dashboard_Preview](../images/Flight_data_dashboard.gif)
 ---
 
 ## 🧠 Key Insights
@@ -32,7 +32,9 @@ The goal is to identify **patterns, causes, and performance trends** to assist a
 
 - **Data Cleaning:** Performed in Python and Power Query
 
-To see complete code, check out: ['Dashboard_data_filteration'](6_Flight_delay_and_cancelled_project/3_Dashboard_data_filteration.ipynb)
+To see the complete code, check out [Dashboard_data_filteration](../3_Dashboard_Data_preporation.ipynb)
+
+
 
 ---
 
@@ -81,7 +83,8 @@ This dashboard helps:
 ---
 
 ## 📂 How to View
-1. Download the `.pbix` file from this repository.  
+1. Download the `.pbix` file from this repository.
+[Flights_data_final_dashboard.pbix](Flights_data_final_dashboard.pbix)  
 2. Open it in **Power BI Desktop**.  
 3. Explore visuals using slicers and drill-through options.
 
