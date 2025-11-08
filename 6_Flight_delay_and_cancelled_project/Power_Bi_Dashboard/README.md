@@ -7,7 +7,7 @@ The goal is to identify **patterns, causes, and performance trends** to assist a
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard_Preview](../images/Flight_data_dashboard.gif)
+![Dashboard_Preview](../images/Flight_data_dashboard.gif )
 ---
 
 ## 🧠 Key Insights
