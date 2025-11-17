@@ -32,7 +32,7 @@ The goal is to identify **patterns, causes, and performance trends** to assist a
 
 - **Data Cleaning:** Performed in Python and Power Query
 
-To see the complete code, check out [Dashboard_data_filteration](..\3_Dashboard_Data_preporation.ipynb)
+To see the complete code, check out [Dashboard_data_filteration](../3_Dashboard_Data_preporation.ipynb)
 
 
 
